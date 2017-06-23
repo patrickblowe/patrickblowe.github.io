@@ -1,0 +1,16 @@
+body {
+    background: url(https://cdn.subtlecdn.com/argyle.png);
+    color: white;
+    font-family: "Impact";
+    text-align: center;
+    border: solid white;
+}
+img {
+    border-radius:25% ;
+    Border:solid white;
+    transitions: all 5s;
+}
+img:hover {
+    border-radius: 100%;
+    border: solid 30%;
+}
